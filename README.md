@@ -1,3 +1,7 @@
+This fork includes the build output in the dist/ folder, so one won't have to run `npm install` and `npm run minify` after having cloned the repo. (That's the only difference.)
+
+---
+
 # sanitize-html
 
 <a href="http://apostrophenow.org/"><img src="https://raw.github.com/punkave/sanitize-html/master/logos/logo-box-madefor.png" align="right" /></a>
